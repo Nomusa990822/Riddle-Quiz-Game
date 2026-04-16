@@ -6,24 +6,26 @@
   <strong>Where classic brain teasers meet intelligent gameplay.</strong>
 </p>
 
+<div align="center">
+
+<!-- Tech Stack -->
+<img src="https://img.shields.io/badge/Python-3.12+-1e293b?style=for-the-badge&logo=python&logoColor=E6B17E" />
+<img src="https://img.shields.io/badge/FastAPI-Backend-1e293b?style=for-the-badge&logo=fastapi&logoColor=E6B17E" />
+<img src="https://img.shields.io/badge/JavaScript-Frontend-1e293b?style=for-the-badge&logo=javascript&logoColor=F59E0B" />
+<img src="https://img.shields.io/badge/HTML5-Structure-1e293b?style=for-the-badge&logo=html5&logoColor=F59E0B" />
+<img src="https://img.shields.io/badge/CSS3-Styling-1e293b?style=for-the-badge&logo=css3&logoColor=F59E0B" />
+<img src="https://img.shields.io/badge/JWT-Authentication-1e293b?style=for-the-badge&logo=jsonwebtokens&logoColor=E6B17E" />
+
+<br/><br/>
+
+<!-- Features -->
+<img src="https://img.shields.io/badge/AI-Riddle_Generation-0f172a?style=for-the-badge&color=E6B17E" />
+<img src="https://img.shields.io/badge/Semantic-Answer_Scoring-0f172a?style=for-the-badge&color=F59E0B" />
+<img src="https://img.shields.io/badge/Responsive-Tablet_Optimized-0f172a?style=for-the-badge&color=E6B17E" />
+<img src="https://img.shields.io/badge/UI-Premium_Gradient_Theme-0f172a?style=for-the-badge&color=F59E0B" />
+<img src="https://img.shields.io/badge/Portfolio-Standout_Project-0f172a?style=for-the-badge&color=E6B17E" />
+
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12+-for-the-badge&logo=python&logoColor=white&color=1e4445" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-for-the-badge&logo=fastapi&logoColor=white&color=233436" />
-  <img src="https://img.shields.io/badge/JavaScript-Frontend-for-the-badge&logo=javascript&logoColor=black&color=EBA328" />
-  <img src="https://img.shields.io/badge/HTML5-Structure-for-the-badge&logo=html5&logoColor=white&color=AB6937" />
-  <img src="https://img.shields.io/badge/CSS3-Styling-for-the-badge&logo=css3&logoColor=white&color=E8C2B3" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-for-the-badge&logo=jsonwebtokens&logoColor=white&color=1e4445" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Riddle_Generation-for-the-badge&color=233436" />
-  <img src="https://img.shields.io/badge/Semantic-Answer_Scoring-for-the-badge&color=1e4445" />
-  <img src="https://img.shields.io/badge/Responsive-Tablet_Optimized-for-the-badge&color=AB6937" />
-  <img src="https://img.shields.io/badge/UI-Premium_Gradient_Theme-for-the-badge&color=EBA328" />
-  <img src="https://img.shields.io/badge/Portfolio-Standout_Project-for-the-badge&color=233436" />
-</p>
 
 </div>
 
@@ -283,3 +285,60 @@ sequenceDiagram
 - Extends the challenge format for repeated play.
 
 ---
+
+## Dataset Pipeline
+
+This project supports dataset growth through a text-to-CSV conversion flow.
+
+**Input:**
+
+```difficulty|question|answer```
+
+**Conversion**
+- reads from ```riddles.txt```
+- removes duplicates
+- infers category
+- writes cleaned rows to ```data/riddles.csv```
+
+**Categories**
+- Logic
+- Math
+- Science
+
+This gives the project a maintainable content pipeline instead of hardcoded questions.
+
+---
+
+## Authentication Architecture
+
+The authentication system uses:
+- registration
+- login
+- password hashing
+- JWT token generation
+- protected API endpoints
+
+Protected endpoints require a valid token before a user can:
+- start a game
+- submit results
+- access personalized identity state
+
+---
+
+## Semantic Scoring
+
+Instead of relying only on strict string equality, the project supports semantic-aware answer evaluation.
+
+This makes the game more intelligent by allowing:
+
+- better handling of close answers
+- more flexible evaluation logic
+- stronger NLP integration
+
+That moves the project beyond a simple quiz checker into a more modern intelligent system.
+
+---
+
+## Responsive Design Strategy
+
+The UI was designed with orientation-aware behavior in mind.
