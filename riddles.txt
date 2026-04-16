@@ -1,0 +1,592 @@
+easy|What has keys but can't open locks?|piano
+easy|What has hands but cannot clap?|clock
+easy|What has legs but cannot walk?|table
+easy|What gets wetter the more it dries?|towel
+easy|What has a face and two hands but no arms or legs?|clock
+easy|What has an eye but cannot see?|needle
+easy|What has a neck but no head?|bottle
+easy|What has a thumb and four fingers but is not alive?|glove
+easy|What runs but never walks?|water
+easy|What goes up but never comes down?|age
+easy|What has teeth but cannot bite?|comb
+easy|What can travel around the world while staying in one corner?|stamp
+easy|What has many pages but no words?|calendar
+easy|What has one eye but cannot see?|needle
+easy|What has wings but cannot fly?|penguin
+easy|What has wheels and flies but is not an airplane?|garbage truck
+easy|What has ears but cannot hear?|corn
+easy|What can you catch but not throw?|cold
+easy|What begins with t ends with t and has tea inside?|teapot
+easy|What gets bigger the more you take away?|hole
+easy|What kind of band never plays music?|rubber band
+easy|What is always in front of you but can’t be seen?|future
+easy|What goes up and down but never moves?|stairs
+easy|What belongs to you but others use it more than you do?|name
+easy|What has a tail but no body?|coin
+easy|What has cities but no houses?|map
+easy|What has rivers but no water?|map
+easy|What has forests but no trees?|map
+easy|What has words but never speaks?|book
+easy|What can fill a room but takes up no space?|light
+easy|What has four legs in the morning, two at noon, three in the evening?|human
+easy|What can you hold without touching?|conversation
+easy|What is full of holes but still holds water?|sponge
+easy|What gets sharper the more you use it?|brain
+easy|What has branches but no fruit?|bank
+easy|What is always coming but never arrives?|tomorrow
+easy|What has a ring but no finger?|phone
+easy|What flies without wings?|time
+easy|What has keys but no locks?|keyboard
+easy|What has space but no room?|keyboard
+easy|What has a spine but no bones?|book
+easy|What is black when clean and white when dirty?|chalkboard
+easy|What is easy to lift but hard to throw?|feather
+easy|What has an eye but cannot blink?|needle
+easy|What is always hungry and must always be fed?|fire
+easy|What kind of coat can only be put on when wet?|paint
+easy|What has a bed but never sleeps?|river
+easy|What has a mouth but cannot talk?|river
+easy|What has a head and tail but no body?|coin
+easy|What kind of tree can you carry in your hand?|palm
+easy|What gets broken without being held?|promise
+easy|What kind of room has no doors or windows?|mushroom
+easy|What has a horn but cannot honk?|rhino
+easy|What has stripes but is not a road?|zebra
+easy|What has wheels but cannot drive?|wheelbarrow
+easy|What can run but never walks?|water
+easy|What is always running but never tired?|water
+easy|What has a face but no eyes?|clock
+easy|What kind of cup cannot hold water?|cupcake
+easy|What kind of key opens a banana?|monkey
+easy|What goes through cities and fields but never moves?|road
+easy|What has a tongue but cannot speak?|shoe
+easy|I am the number of sides on two triangles put together. What am I?|6
+easy|I am the answer to 8 minus 3. What am I?|5
+easy|I am the answer to 6 plus 6. What am I?|12
+easy|I am the answer to 9 minus 5. What am I?|4
+easy|I am the answer to 7 plus 1. What am I?|8
+easy|I am the number of toes on one foot. What am I?|5
+easy|I am one more than 99. What am I?|100
+easy|I am the number of hours in one day. What am I?|24
+easy|I am the number of minutes in one hour. What am I?|60
+easy|I am the answer to 2 plus 2 plus 2. What am I?|6
+easy|I am the answer to 15 minus 10. What am I?|5
+easy|I am the number of corners on two squares. What am I?|8
+easy|I am the result of 20 divided by 4. What am I?|5
+easy|I am the result of 16 divided by 2. What am I?|8
+easy|I am the answer to 1 times 9. What am I?|9
+easy|I am the answer to 10 times 1. What am I?|10
+easy|I am the number between 6 and 8. What am I?|7
+easy|I am the number between 99 and 101. What am I?|100
+easy|I am the answer to 18 minus 9. What am I?|9
+easy|I am the result of 3 plus 3 plus 3. What am I?|9
+easy|I am the result of 5 times 1. What am I?|5
+easy|I am the result of 2 times 4. What am I?|8
+easy|I am the number of days in three weeks. What am I?|21
+easy|I am the answer to 13 minus 3. What am I?|10
+easy|I am the answer to 4 plus 5. What am I?|9
+easy|I am the number of months in half a year. What am I?|6
+easy|I am the answer to 6 minus 1. What am I?|5
+easy|I am the answer to 7 plus 2. What am I?|9
+easy|I am the result of 9 plus 9. What am I?|18
+easy|I am the answer to 12 minus 2. What am I?|10
+easy|I am the result of 2 plus 8. What am I?|10
+easy|I am the number of sides on three triangles. What am I?|9
+easy|I am the result of 4 plus 6. What am I?|10
+easy|I am the result of 2 times 6. What am I?|12
+easy|I am the star at the center of our solar system. What am I?|sun
+easy|I am the force that pulls objects toward Earth. What am I?|gravity
+easy|I am what you breathe in to stay alive. What am I?|oxygen
+easy|I am frozen water. What am I?|ice
+easy|I am the process plants use to make food. What am I?|photosynthesis
+easy|I am the red liquid that flows in your body. What am I?|blood
+easy|I am the planet we live on. What am I?|earth
+easy|I am the gas plants release. What am I?|oxygen
+easy|I am the largest planet in the solar system. What am I?|jupiter
+easy|I am the closest planet to the sun. What am I?|mercury
+easy|I am the natural satellite of Earth. What am I?|moon
+easy|I am the process of water turning into vapor. What am I?|evaporation
+easy|I am the opposite of evaporation. What am I?|condensation
+easy|I am what you use to measure temperature. What am I?|thermometer
+easy|I am what you use to see very small things. What am I?|microscope
+easy|I am the solid form of water. What am I?|ice
+easy|I am the boiling point of water in Celsius. What am I?|100
+easy|I am the freezing point of water in Celsius. What am I?|0
+easy|I am the center of an atom. What am I?|nucleus
+easy|I am the gas you breathe out. What am I?|carbon dioxide
+easy|I am the organ you use to think. What am I?|brain
+easy|I am the organ that pumps blood. What am I?|heart
+easy|I am the main source of energy for Earth. What am I?|sun
+easy|I am what covers most of Earth's surface. What am I?|water
+easy|I am the study of living things. What am I?|biology
+easy|I am the study of matter. What am I?|chemistry
+easy|I am the study of forces and motion. What am I?|physics
+easy|I am the hardest natural substance. What am I?|diamond
+easy|I am what you call animals that eat plants. What am I?|herbivores
+easy|I am what you call animals that eat meat. What am I?|carnivores
+easy|I am what you call animals that eat both. What am I?|omnivores
+easy|I am the layer of air around Earth. What am I?|atmosphere
+easy|I am the red planet. What am I?|mars
+easy|I am the blue planet. What am I?|earth
+easy|I am the largest organ in the human body. What am I?|skin
+easy|I am what you use to measure time in science experiments. What am I?|timer
+easy|I am the change from liquid to solid. What am I?|freezing
+easy|I am the change from solid to liquid. What am I?|melting
+easy|I am what you call energy from the sun. What am I?|solar energy
+easy|I am the part of the plant that makes food. What am I?|leaf
+easy|I am the part of the plant that absorbs water. What am I?|root
+easy|I am the part of the plant that holds it upright. What am I?|stem
+easy|I am the process of breathing in oxygen. What am I?|inhalation
+easy|I am the process of breathing out carbon dioxide. What am I?|exhalation
+easy|I am what you call a scientist who studies stars. What am I?|astronomer
+easy|I am what you call a scientist who studies rocks. What am I?|geologist
+easy|I am the force that keeps planets in orbit. What am I?|gravity
+easy|I am what you call a baby frog. What am I?|tadpole
+easy|I am what you call the growth process of a frog. What am I?|metamorphosis
+easy|I am the state of matter of air. What am I?|gas
+easy|I am the state of matter of water. What am I?|liquid
+easy|I am the state of matter of ice. What am I?|solid
+easy|I am the center of our galaxy. What am I?|black hole
+easy|I am what you call animals active at night. What am I?|nocturnal
+easy|I am half of 20. What am I?|10
+easy|I am the result of 30 divided by 3. What am I?|10
+easy|What has arms but cannot hug?|chair
+easy|What can you hear but not see?|sound
+easy|What has buttons but no shirt?|remote
+easy|What kind of fruit is always sad?|blueberry
+easy|What can be cracked but never broken?|joke
+easy|What is tall when young and short when old?|candle
+easy|What flies without wings and cries without eyes?|cloud
+easy|What is always ahead but never seen?|future
+easy|I am the number you get when you add 2 and 3. What am I?|5
+easy|I am the number that comes after 9. What am I?|10
+easy|I am half of 8. What am I?|4
+easy|I am the smallest even number. What am I?|2
+easy|I am the number of sides on a triangle. What am I?|3
+easy|I am the number of days in a week. What am I?|7
+easy|I am the number of months in a year. What am I?|12
+easy|I am the result of 5 minus 2. What am I?|3
+easy|I am the result of 4 plus 4. What am I?|8
+easy|I am the number of legs on two birds. What am I?|4
+easy|I am the number of corners on a square. What am I?|4
+easy|I am the number that comes before 20. What am I?|19
+easy|I am double 6. What am I?|12
+easy|I am the number of zeros in 100. What am I?|2
+easy|I am the answer to 9 plus 1. What am I?|10
+easy|I am the answer to 7 minus 4. What am I?|3
+easy|I am the answer to 3 plus 6. What am I?|9
+easy|I am the answer to 2 times 5. What am I?|10
+easy|I am the number of sides on a pentagon. What am I?|5
+easy|I am the number of sides on a hexagon. What am I?|6
+easy|I am the number of fingers on one hand. What am I?|5
+easy|I am the result of 1 plus 1 plus 1. What am I?|3
+easy|I am the number of wheels on two bicycles. What am I?|4
+easy|I am one less than 15. What am I?|14
+easy|I am the number of minutes in half an hour. What am I?|30
+easy|I am the result of 10 minus 7. What am I?|3
+easy|I am the result of 6 plus 2. What am I?|8
+easy|I am the result of 5 plus 5. What am I?|10
+easy|I am the number of sides on an octagon. What am I?|8
+easy|I am the result of 3 times 3. What am I?|9
+easy|I am the result of 12 divided by 3. What am I?|4
+easy|I am the result of 14 minus 4. What am I?|10
+easy|I am the result of 2 plus 7. What am I?|9
+easy|I am the number of days in two weeks. What am I?|14
+easy|I am the result of 11 minus 1. What am I?|10
+easy|I am the result of 4 times 2. What am I?|8
+medium|I shave every day but my beard stays the same.|barber
+medium|The more you have of me the less you see.|darkness
+medium|I have lakes with no water mountains with no stone.|map
+medium|I fly without wings and cry without eyes.|cloud
+medium|I have no life but I can die.|battery
+medium|What has 13 hearts but no organs?|deck of cards
+medium|What is bought by the yard but worn by the foot?|carpet
+medium|What follows you all day but disappears at night?|shadow
+medium|What can be cracked made told and played?|joke
+medium|I have a neck but no head and wear a cap.|bottle
+medium|What can fill a room but takes no space?|light
+medium|The more you take away the bigger i become.|hole
+medium|What is lighter than a feather yet cannot be held long?|breath
+medium|I am the process by which cells divide into two identical cells. What am I?|mitosis
+medium|I am the process of converting food into energy in cells. What am I?|cellular respiration
+medium|I am the unit of heredity. What am I?|gene
+medium|I am the molecule that carries genetic information. What am I?|dna
+medium|I am the force that opposes motion. What am I?|friction
+medium|I am the energy stored in an object. What am I?|potential energy
+medium|I am energy in motion. What am I?|kinetic energy
+medium|I am the organelle known as the powerhouse of the cell. What am I?|mitochondria
+medium|I am the gas essential for combustion. What am I?|oxygen
+medium|I am the pH of pure water. What am I?|7
+medium|I am the process where light bends in water. What am I?|refraction
+medium|I am the bending of light around objects. What am I?|diffraction
+medium|I am the reflection of light. What am I?|reflection
+medium|I am the SI unit of force. What am I?|newton
+medium|I am the SI unit of energy. What am I?|joule
+medium|I am the SI unit of power. What am I?|watt
+medium|I am the SI unit of temperature. What am I?|kelvin
+medium|I am the SI unit of mass. What am I?|kilogram
+medium|I am the SI unit of length. What am I?|meter
+medium|I am the chemical symbol for gold. What am I?|au
+medium|I am the chemical symbol for sodium. What am I?|na
+medium|I am the chemical symbol for iron. What am I?|fe
+medium|I am the process by which plants release water vapor. What am I?|transpiration
+medium|I am the structure that controls the cell. What am I?|nucleus
+medium|I am the largest part of the brain. What am I?|cerebrum
+medium|I am the part of the brain that controls balance. What am I?|cerebellum
+medium|I am the part of the brain that controls breathing. What am I?|medulla
+medium|I am the system that carries blood. What am I?|circulatory system
+medium|I am the system responsible for breathing. What am I?|respiratory system
+medium|I am the system responsible for digestion. What am I?|digestive system
+medium|I am the system responsible for movement. What am I?|muscular system
+medium|I am the system responsible for protection. What am I?|integumentary system
+medium|I am the energy from moving water. What am I?|hydropower
+medium|I am the energy from wind. What am I?|wind energy
+medium|I am the energy from Earth's heat. What am I?|geothermal energy
+medium|I am the study of earthquakes. What am I?|seismology
+medium|I am the study of weather. What am I?|meteorology
+medium|I am the study of fossils. What am I?|paleontology
+medium|I am the process of rocks breaking down. What am I?|weathering
+medium|I am the process of rocks moving. What am I?|erosion
+medium|I am the process of rocks forming layers. What am I?|sedimentation
+medium|I am the layer of Earth where we live. What am I?|crust
+medium|I am the middle layer of Earth. What am I?|mantle
+medium|I am the innermost layer of Earth. What am I?|core
+medium|I am the process where organisms adapt over time. What am I?|evolution
+medium|I am the natural selection process. What am I?|selection
+medium|I am the law that states energy cannot be created or destroyed. What am I?|conservation of energy
+medium|I am the process of heat transfer through contact. What am I?|conduction
+medium|I am heat transfer through fluids. What am I?|convection
+medium|I am heat transfer through waves. What am I?|radiation
+medium|I am the speed of light. What am I?|3x10^8
+medium|I am the force between charged particles. What am I?|electromagnetism
+medium|I am the smallest unit of matter. What am I?|atom
+medium|Which letter has the most water?|c
+medium|I travel the world but stay in a corner.|stamp
+medium|What has keys but no locks and space but no room?|keyboard
+medium|What has a spine but no bones?|book
+medium|What can be seen in water but never gets wet?|reflection
+medium|What has hands but cannot hold?|clock
+medium|I am always hungry i must always be fed.|fire
+medium|What has a tongue but cannot taste?|shoe
+medium|What has roots nobody sees taller than trees?|mountain
+medium|What runs but never tires?|water
+medium|What is the center of gravity?|v
+medium|What has a ring but no finger?|phone
+medium|What measures time but never moves?|clock
+medium|What has holes but lets light through?|window
+medium|What stays in a corner but travels the world?|stamp
+medium|What do you call an alligator in a vest?|investigator
+medium|Tall when young short when old.|candle
+medium|What has teeth but cannot eat?|comb
+medium|What goes up and down but never moves?|stairs
+medium|Feed me i live give me water i die.|fire
+medium|Golden treasure inside a box with no lid.|egg
+medium|Four wheels and flies but not aircraft.|garbage truck
+medium|What disappears once spoken?|silence
+medium|What can travel faster than sound?|light
+medium|What building has the most stories?|library
+medium|What invention lets you look through a wall?|window
+medium|What has one head one foot and four legs?|bed
+medium|What kind of coat is always wet?|paint
+medium|What is always hungry?|fire
+medium|What gets sharper the more used?|brain
+medium|What can fly without wings?|time
+medium|What can bring tears joy and memories?|memory
+medium|What gets wetter the more it dries?|towel
+medium|What kind of tree fits in your hand?|palm
+medium|What is taken before you get it?|photo
+medium|What goes up when rain comes down?|umbrella
+medium|What belongs to you but others use it?|name
+medium|What has cities but no houses rivers but no water?|map
+medium|What has keys but opens nothing?|piano
+medium|What has legs but cannot walk?|table
+medium|What has many teeth but cannot bite?|comb
+medium|What kind of room has no windows?|mushroom
+medium|What kind of band never plays music?|rubber band
+medium|What kind of tree has needles?|pine
+medium|What kind of fruit is never alone?|pear
+medium|What kind of dog never bites?|hotdog
+medium|What kind of shoes do ninjas wear?|sneakers
+medium|What kind of music do balloons hate?|pop
+medium|What kind of cup cannot hold water?|cupcake
+medium|What can go through glass without breaking?|light
+medium|What has many rings but no fingers?|tree
+medium|What kind of lion never roars?|dandelion
+medium|What kind of key cannot open doors?|turkey
+medium|What kind of room cannot enter?|mushroom
+medium|What kind of star is dangerous?|shooting star
+medium|What kind of table has no legs?|timetable
+medium|What kind of coat is invisible?|paint
+medium|What kind of fruit can you never cheer up?|blueberry
+medium|I am an odd number. Remove one letter and I become even. What am I?|seven
+medium|Add me to myself and I become 10. What number am I if I start at 5?|5
+medium|I am the only even prime number. What am I?|2
+medium|I am a number greater than 10 and less than 15. I am even. What am I?|12
+medium|I am a number that stays the same when multiplied by 1. What am I?|any number
+medium|I am the result when you multiply 3 by 4. What am I?|12
+medium|I am one quarter of 100. What am I?|25
+medium|I am the number of degrees in a right angle. What am I?|90
+medium|I am the result of 15 divided by 5. What am I?|3
+medium|I am a number with two digits. My digits add to 9. I am the smallest possible. What am I?|18
+medium|I am a number with two digits. My tens digit is 3 and my ones digit is 4. What am I?|34
+medium|I am the perimeter of a square with side 5. What am I?|20
+medium|I am the area of a rectangle with length 4 and width 3. What am I?|12
+medium|I am the result of 2 cubed. What am I?|8
+medium|I am the result of 5 squared. What am I?|25
+medium|I am a number that is divisible by 2 and 3 and is less than 10. What am I?|6
+medium|I am the sum of the first three positive numbers. What am I?|6
+medium|I am the number that comes next: 2, 4, 6, 8, __. What am I?|10
+medium|I am the next number: 1, 3, 5, 7, __. What am I?|9
+medium|I am the next number: 5, 10, 15, __. What am I?|20
+medium|I am the difference between 50 and 23. What am I?|27
+medium|I am a number less than 50. If you divide me by 5 you get 8. What am I?|40
+medium|I am a number. If you add 12 to me, you get 30. What am I?|18
+medium|I am the next triangular number after 6. What am I?|10
+medium|I am the next even number after 18. What am I?|20
+medium|I am the smallest number divisible by both 4 and 5. What am I?|20
+medium|I am the product of the first three positive integers. What am I?|6
+medium|I am the sum of two equal numbers and the answer is 14. What is one of the numbers?|7
+medium|I am a shape with eight sides. What am I?|octagon
+medium|I am a number whose double is 18. What am I?|9
+medium|I am a number whose triple is 21. What am I?|7
+medium|I am the value of 100 divided by 4. What am I?|25
+medium|I am the sum of 11 and 12. What am I?|23
+medium|I am the difference between 80 and 35. What am I?|45
+medium|I am the mean of 5, 10, and 15. What am I?|10
+medium|I am the largest one-digit odd number. What am I?|9
+medium|I am the smallest two-digit number. What am I?|10
+medium|I am the next number: 3, 6, 9, 12, __. What am I?|15
+medium|I am the next number: 2, 4, 8, 16, __. What am I?|32
+medium|I am a number with digits that add to 6 and multiply to 8. What am I?|24
+medium|I am a number with digits that add to 8 and multiply to 15. What am I?|35
+medium|I am the number of degrees in a full turn. What am I?|360
+medium|I am the sum of the angles in a quadrilateral. What am I?|360
+medium|I am the area of a square with side 6. What am I?|36
+medium|I am the perimeter of a triangle with sides 3, 4, and 5. What am I?|12
+medium|I am the result of 49 divided by 7. What am I?|7
+medium|I am the result of 8 squared. What am I?|64
+medium|I am the result of 27 divided by 3. What am I?|9
+medium|I am one tenth of 500. What am I?|50
+medium|I am the next number after 1, 4, 7, 10, __. What am I?|13
+medium|I am the number halfway between 20 and 30. What am I?|25
+medium|I am the result of 14 plus 19. What am I?|33
+medium|I am the result of 90 minus 45. What am I?|45
+medium|I am the result of 5 multiplied by 11. What am I?|55
+medium|I am a number between 30 and 40. My digits add to 9. What am I?|36
+medium|I am a number between 40 and 50. My digits add to 10. What am I?|46
+medium|I am the smallest multiple of 9 greater than 30. What am I?|36
+medium|I am the result of 7 times 6. What am I?|42
+medium|I am the result of 81 divided by 9. What am I?|9
+medium|I am the result of 18 plus 17. What am I?|35
+medium|I am a number greater than 20 and less than 30. My digits add to 5. What am I?|23
+medium|I am a shape with all sides equal and four right angles. What am I?|square
+medium|I am the result of 100 minus 45. What am I?|55
+medium|I am the median of 3, 8, and 5. What am I?|5
+medium|I am the mean of 2, 4, and 6. What am I?|4
+medium|I am the number of degrees in a straight line. What am I?|180
+medium|I am the result of 9 times 9. What am I?|81
+medium|I am the result of 64 divided by 8. What am I?|8
+medium|I am the smallest multiple of 7 greater than 20. What am I?|21
+medium|I am the sum of the angles in a triangle. What am I?|180
+medium|I am the next square number after 16. What am I?|25
+medium|I am half of 50 plus 5. What am I?|30
+hard|What disappears as soon as you say its name?|silence
+hard|Forward i am heavy backward i am not.|ton
+hard|What begins with e and contains one letter?|envelope
+hard|What flies forever rests never?|wind
+hard|What breaks but never falls?|day
+hard|What falls but never breaks?|night
+hard|What has a bottom at the top?|leg
+hard|What begins with a minute twice in a moment never in thousand years?|m
+hard|What gets larger the more you take?|hole
+hard|What comes once in a year twice in a week never in a day?|e
+hard|What word becomes shorter when you add letters?|short
+hard|What can bring back the dead make us cry laugh and young?|memory
+hard|Taken from a mine shut in wood never released yet used daily.|pencil lead
+hard|I speak without mouth hear without ears.|echo
+hard|The more you take the more you leave.|footsteps
+hard|I have branches but no fruit trunk or leaves.|bank
+hard|What has a head tail brown and no legs?|penny
+hard|What must be broken before used?|egg
+hard|I am not alive but grow.|fire
+hard|I can be cracked made told and played.|riddle
+hard|I fly without wings cry without eyes.|cloud
+hard|What can you hold without touching?|conversation
+hard|What has many teeth but cannot bite?|comb
+hard|What gets wetter the more it dries?|towel
+hard|I am a two-digit number. My digits add to 11 and multiply to 28. What am I?|47
+hard|I am a two-digit number. Reverse me and I become 9 less. What am I?|54
+hard|I am a three-digit number. My digits are 2, 4, and 6 in some order. I am even and greater than 500. What am I?|642
+hard|I am a number. Divide me by 3 and add 4 to get 10. What am I?|18
+hard|I am a number. Multiply me by 4 and subtract 5 to get 19. What am I?|6
+hard|I am the least common multiple of 8 and 12. What am I?|24
+hard|I am the greatest common divisor of 45 and 60. What am I?|15
+hard|I am a prime number greater than 30 and less than 40. My digits add to 4. What am I?|31
+hard|I am the next cube number after 27. What am I?|64
+hard|I am the square root of 196. What am I?|14
+hard|I am the value of 15 percent of 200. What am I?|30
+hard|I am the value of 12.5 percent of 80. What am I?|10
+hard|I am the slope of a horizontal line. What am I?|0
+hard|I am the slope of a vertical line. What am I?|undefined
+hard|I am the sum of the interior angles of a pentagon. What am I?|540
+hard|I am the sum of the interior angles of a hexagon. What am I?|720
+hard|I am a number whose square is 121. What am I?|11
+hard|I am the result of 2 to the power of 6. What am I?|64
+hard|I am the result of 5 cubed. What am I?|125
+hard|I am the next prime after 29. What am I?|31
+hard|I am the next prime after 31. What am I?|37
+hard|I am the first common multiple of 9 and 12 above 50. What am I?|72
+hard|I am the first common multiple of 7 and 8 above 50. What am I?|56
+hard|I am a two-digit number. My ones digit is twice my tens digit. My digits add to 9. What am I?|36
+hard|I am a number that leaves remainder 1 when divided by 2 and remainder 0 when divided by 3. What am I if I am less than 10?|3
+hard|I am a number that is divisible by 4 and 6 and lies between 20 and 30. What am I?|24
+hard|I am the area of a circle with radius 1 rounded to two decimals. What am I?|3.14
+hard|I am the circumference of a circle with diameter 2 rounded to two decimals. What am I?|6.28
+hard|I am a number. If you halve me and then add 9, you get 20. What am I?|22
+hard|I am a number. If you triple me and subtract 4, you get 17. What am I?|7
+hard|I am a number whose binary form is 1010. What am I?|10
+hard|I am a number whose Roman numeral is X. What am I?|10
+hard|I am the median of 2, 9, 4, 7, and 5. What am I?|5
+hard|I am the mode of 3, 4, 4, 5, 6. What am I?|4
+hard|I am the range of 12, 17, 20, and 14. What am I?|8
+hard|I am a perfect number less than 10. What am I?|6
+hard|What has cities but no houses?|map
+hard|What has rivers but no water?|map
+hard|What has forests but no trees?|map
+hard|What has a head and tail but no body?|coin
+hard|What is always in front but unseen?|future
+hard|What has hands but cannot clap?|clock
+hard|What has legs but cannot walk?|table
+hard|What has a neck but no head?|bottle
+hard|What has an eye but cannot see?|needle
+hard|What has keys but opens nothing?|piano
+hard|What can fill room but takes no space?|light
+hard|What travels world corner?|stamp
+hard|What has spine but no bones?|book
+hard|What gets sharper more used?|brain
+hard|What always hungry?|fire
+hard|What gets bigger more taken?|hole
+hard|What flies wings none?|time
+hard|I am the equation that relates force mass and acceleration. What am I?|f=ma
+hard|I am the equation for kinetic energy. What am I?|1/2mv^2
+hard|I am the equation for potential energy. What am I?|mgh
+hard|I am the equation for density. What am I?|mass/volume
+hard|I am the equation for pressure. What am I?|force/area
+hard|I am the equation for speed. What am I?|distance/time
+hard|I am the second law of thermodynamics. What am I?|entropy
+hard|I am the constant in E=mc^2. What am I?|speed of light
+hard|I am the SI unit of electric current. What am I?|ampere
+hard|I am the SI unit of electric resistance. What am I?|ohm
+hard|I am the SI unit of electric charge. What am I?|coulomb
+hard|I am the law describing voltage current and resistance. What am I?|ohm's law
+hard|I am the process where nuclei split. What am I?|fission
+hard|I am the process where nuclei combine. What am I?|fusion
+hard|I am the fundamental particle with negative charge. What am I?|electron
+hard|I am the fundamental particle with positive charge. What am I?|proton
+hard|I am the particle with no charge. What am I?|neutron
+hard|I am the force holding the nucleus together. What am I?|strong force
+hard|I am the weakest fundamental force. What am I?|gravity
+hard|I am the study of motion without forces. What am I?|kinematics
+hard|I am the study of forces. What am I?|dynamics
+hard|I am the principle that explains buoyancy. What am I?|archimedes principle
+hard|I am the scientist who proposed evolution. What am I?|darwin
+hard|I am the scientist who discovered gravity. What am I?|newton
+hard|I am the scientist who developed relativity. What am I?|einstein
+hard|I am the process of RNA formation. What am I?|transcription
+hard|I am the process of protein synthesis. What am I?|translation
+hard|I am the base pairing rule for DNA. What am I?|at cg
+hard|I am the number of chromosomes in humans. What am I?|46
+hard|I am the structure that carries genes. What am I?|chromosome
+hard|I am the shape of DNA. What am I?|double helix
+hard|I am the bond that holds DNA strands together. What am I?|hydrogen bond
+hard|I am the scale used to measure acidity. What am I?|ph scale
+hard|I am the study of heat and energy. What am I?|thermodynamics
+hard|I am the measure of disorder. What am I?|entropy
+hard|I am the process where heat flows naturally. What am I?|second law
+hard|I am the energy stored in chemical bonds. What am I?|chemical energy
+hard|I am the energy of motion of electrons. What am I?|electric energy
+hard|I am the process of light emission from excited atoms. What am I?|emission
+hard|I am the wavelength of visible light range. What am I?|400-700nm
+hard|I am the phenomenon causing blue sky. What am I?|rayleigh scattering
+hard|I am the phenomenon causing rainbows. What am I?|dispersion
+hard|I am the study of waves. What am I?|wave physics
+hard|I am the law relating pressure and volume. What am I?|boyle's law
+hard|I am the law relating temperature and volume. What am I?|charles law
+hard|I am the law relating pressure temperature and volume. What am I?|ideal gas law
+hard|I am the number of planets in the solar system. What am I?|8
+hard|I am the largest ocean on Earth. What am I?|pacific
+hard|I am the deepest part of the ocean. What am I?|mariana trench
+hard|I am the process that forms clouds. What am I?|condensation
+hard|I am the process that forms rain. What am I?|precipitation
+hard|I am the study of ecosystems. What am I?|ecology
+hard|I am the balance of nature. What am I?|ecosystem
+hard|What runs never tired?|water
+hard|What center gravity?|v
+hard|What ring no finger?|phone
+hard|What measures time?|clock
+hard|What holes let light?|window
+hard|What stays corner travels?|stamp
+hard|What alligator vest?|investigator
+hard|Tall young short old?|candle
+hard|Teeth cannot eat?|comb
+hard|Up down never move?|stairs
+hard|Feed live water die?|fire
+hard|Golden treasure box?|egg
+hard|Four wheels flies?|garbage truck
+hard|Lakes no water mountains no stone?|map
+hard|Fly no wings cry no eyes?|cloud
+hard|More you have less see?|darkness
+hard|Life none die?|battery
+hard|13 hearts?|deck of cards
+hard|Bought yard worn foot?|carpet
+hard|Follow day vanish night?|shadow
+hard|Key opens none?|piano
+hard|Neck no head?|bottle
+hard|Fill room no space?|light
+hard|Take away bigger?|hole
+hard|Feather lighter yet hold impossible?|breath
+hard|Letter most water?|c
+hard|Corner travel world?|stamp
+hard|Keys locks none space room none?|keyboard
+hard|Cracked made told played?|riddle
+hard|Spine bones none?|book
+hard|Seen water never wet?|reflection
+hard|Cities houses none rivers none?|map
+hard|I am a three-digit number. My digits add to 9. My tens digit is 0. My hundreds digit is one less than my ones digit. What am I?|306
+hard|I am a number. Multiply me by 2 and add 6 to get 20. What am I?|7
+hard|I am a number. Subtract 4 from me and divide by 2 to get 5. What am I?|14
+hard|I am a number whose square root is also a whole number and less than 10. I am greater than 50. What am I?|64
+hard|I am the smallest number divisible by 2, 3, and 5. What am I?|30
+hard|I am the least common multiple of 4 and 6. What am I?|12
+hard|I am the greatest common divisor of 18 and 24. What am I?|6
+hard|I am a prime number between 20 and 30. I am odd and end in 3. What am I?|23
+hard|I am a prime number between 10 and 20. Add 1 to me and you get a multiple of 7. What am I?|13
+hard|I am a number. Reverse my digits and I increase by 27. My digits differ by 3. What am I?|36
+hard|I am a two-digit number. My digits multiply to 12 and add to 7. What am I?|34
+hard|I am a two-digit number. My digits add to 10 and multiply to 21. What am I?|37
+hard|I am the next number in the pattern: 1, 4, 9, 16, __. What am I?|25
+hard|I am the next number in the pattern: 2, 6, 12, 20, __. What am I?|30
+hard|I am the next number in the pattern: 1, 1, 2, 3, 5, 8, __. What am I?|13
+hard|I am the sum of all integers from 1 to 5. What am I?|15
+hard|I am the average of 10, 20, and 30. What am I?|20
+hard|I am the perimeter of a rectangle with length 9 and width 4. What am I?|26
+hard|I am the area of a triangle with base 10 and height 4. What am I?|20
+hard|I am the value of pi rounded to two decimal places. What am I?|3.14
+hard|I am the number of faces on a cube. What am I?|6
+hard|I am the number of edges on a cube. What am I?|12
+hard|I am the number of vertices on a cube. What am I?|8
+hard|I am an angle greater than 90 but less than 180. What kind of angle am I?|obtuse
+hard|I am an angle less than 90. What kind of angle am I?|acute
+hard|I am a shape with six sides. What am I?|hexagon
+hard|I am the result of 2 to the power of 5. What am I?|32
+hard|I am the result of 3 to the power of 4. What am I?|81
+hard|I am 25 percent of 200. What am I?|50
+hard|I am 75 percent of 80. What am I?|60
+hard|I am the reciprocal of 4. What am I?|0.25
+hard|I am the reciprocal of 2. What am I?|0.5
+hard|I am the result when 144 is divided by 12. What am I?|12
+hard|I am a number with exactly three factors. What am I if I am less than 10?|4
+hard|I am the smallest square number greater than 20. What am I?|25
+hard|I am the largest one-digit perfect square. What am I?|9
+hard|Hands hold none?|clock
+hard|Tongue taste none?|shoe
