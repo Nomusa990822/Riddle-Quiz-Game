@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=2500&pause=1000&color=F0A500&center=true&vCenter=true&width=600&lines=Riddle+Web+Game" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=2500&pause=1000&color=F0A500&center=true&vCenter=true&width=600&lines=Riddle+Quiz+Game" />
 
 <p align="center">
   <strong>Where classic brain teasers meet intelligent gameplay.</strong>
