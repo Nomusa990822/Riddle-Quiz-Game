@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+transformers
+torch
+sentence-transformers
+sentencepiece
+peft
+datasets
+python-jose[cryptography]
+passlib
+email-validator
