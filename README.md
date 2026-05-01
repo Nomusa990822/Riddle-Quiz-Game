@@ -1,31 +1,55 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=2500&pause=1000&color=F0A500&center=true&vCenter=true&width=600&lines=Riddle+Quiz+Game" />
+# Riddle Quiz Game 
+### Intelligent Brain Teasers • Elite Reasoning Engine
 
-<p align="center">
-  <strong>Where classic brain teasers meet intelligent gameplay.</strong>
+---
+
+<!-- =========================
+     CORE STATUS
+========================= -->
+<p>
+<img src="https://img.shields.io/badge/Status-Live-020617?style=for-the-badge&logo=render&logoColor=8ef1e5" />
+<img src="https://img.shields.io/badge/Build-Stable-020617?style=for-the-badge&logo=githubactions&logoColor=8ef1e5" />
+<img src="https://img.shields.io/badge/Architecture-Modular-020617?style=for-the-badge&logo=databricks&logoColor=8ef1e5" />
+<img src="https://img.shields.io/badge/AI-Generative%20System-020617?style=for-the-badge&logo=openai&logoColor=8ef1e5" />
 </p>
 
-<div align="center">
+<!-- =========================
+     TECH STACK
+========================= -->
+<p>
+<img src="https://img.shields.io/badge/Python-3.12+-0f172a?style=for-the-badge&logo=python&logoColor=7c9cff" />
+<img src="https://img.shields.io/badge/FastAPI-Backend-0f172a?style=for-the-badge&logo=fastapi&logoColor=7c9cff" />
+<img src="https://img.shields.io/badge/JavaScript-Frontend-0f172a?style=for-the-badge&logo=javascript&logoColor=7c9cff" />
+<img src="https://img.shields.io/badge/HTML5-UI%20Structure-0f172a?style=for-the-badge&logo=html5&logoColor=7c9cff" />
+<img src="https://img.shields.io/badge/CSS3-Glassmorphism%20UI-0f172a?style=for-the-badge&logo=css3&logoColor=7c9cff" />
+<img src="https://img.shields.io/badge/JWT-Auth-0f172a?style=for-the-badge&logo=jsonwebtokens&logoColor=7c9cff" />
+<img src="https://img.shields.io/badge/SQLite-Dev-0f172a?style=for-the-badge&logo=sqlite&logoColor=7c9cff" />
+<img src="https://img.shields.io/badge/PostgreSQL-Production-0f172a?style=for-the-badge&logo=postgresql&logoColor=7c9cff" />
+</p>
 
-<!-- Tech Stack -->
-<img src="https://img.shields.io/badge/Python-3.12+-1e293b?style=for-the-badge&logo=python&logoColor=E6B17E" />
-<img src="https://img.shields.io/badge/FastAPI-Backend-1e293b?style=for-the-badge&logo=fastapi&logoColor=E6B17E" />
-<img src="https://img.shields.io/badge/JavaScript-Frontend-1e293b?style=for-the-badge&logo=javascript&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/HTML5-Structure-1e293b?style=for-the-badge&logo=html5&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/CSS3-Styling-1e293b?style=for-the-badge&logo=css3&logoColor=F59E0B" />
-<img src="https://img.shields.io/badge/JWT-Authentication-1e293b?style=for-the-badge&logo=jsonwebtokens&logoColor=E6B17E" />
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-Reasoning%20Engine-1e293b?style=for-the-badge&logo=openai&logoColor=8ef1e5" />
+<img src="https://img.shields.io/badge/LLM%20Integration-Groq%20API-1e293b?style=for-the-badge&logo=apachespark&logoColor=7c9cff" />
+<img src="https://img.shields.io/badge/AI%20Pipeline-Prompt%20Driven-1e293b?style=for-the-badge&logo=lightning&logoColor=8ef1e5" />
+</p>
 
-<br/><br/>
+<!-- =========================
+     GITHUB META
+========================= -->
+<p>
+<img src="https://img.shields.io/github/stars/Nomusa990822/Riddle-Quiz-Game?style=for-the-badge&color=020617" />
+<img src="https://img.shields.io/github/forks/Nomusa990822/Riddle-Quiz-Game?style=for-the-badge&color=020617" />
+<img src="https://img.shields.io/github/issues/Nomusa990822/Riddle-Quiz-Game?style=for-the-badge&color=020617" />
+<img src="https://img.shields.io/github/last-commit/Nomusa990822/Riddle-Quiz-Game?style=for-the-badge&color=020617" />
+<img src="https://img.shields.io/github/repo-size/Nomusa990822/Riddle-Quiz-Game?style=for-the-badge&color=020617" />
+</p>
 
-<!-- Features -->
-<img src="https://img.shields.io/badge/AI-Riddle_Generation-0f172a?style=for-the-badge&color=E6B17E" />
-<img src="https://img.shields.io/badge/Semantic-Answer_Scoring-0f172a?style=for-the-badge&color=F59E0B" />
-<img src="https://img.shields.io/badge/Responsive-Tablet_Optimized-0f172a?style=for-the-badge&color=E6B17E" />
-<img src="https://img.shields.io/badge/UI-Premium_Gradient_Theme-0f172a?style=for-the-badge&color=F59E0B" />
-<img src="https://img.shields.io/badge/Portfolio-Standout_Project-0f172a?style=for-the-badge&color=E6B17E" />
+---
 
-</div>
+**Engineered for intelligent play. Refined for elite reasoning.**  
+*Think deeper. Play sharper. Perform smarter.*
 
 </div>
 
@@ -33,312 +57,192 @@
 
 ## Overview
 
-**Riddle Quiz Game** is a full-stack interactive quiz platform designed to go far beyond a basic riddle app.  
+Riddle AI is a **full-stack intelligent quiz system** designed to push beyond traditional riddle games.
+
 It combines:
+- **Strict answer validation**
+- **Dynamic scoring systems**
+- **AI-enhanced reasoning modes**
+- **Progression-based badge mechanics**
+- **Real-time leaderboard competition**
 
-- classic dataset-driven gameplay
-- AI-assisted riddle generation
-- semantic answer matching
-- user authentication with JWT
-- leaderboard, history, and global ranking systems
-- a polished responsive interface optimized for tablet portrait and landscape layouts
-
-This project was built to demonstrate strong skills across:
-
-- backend engineering
-- API design
-- AI integration
-- frontend interaction design
-- responsive UI architecture
-- product thinking
+This is not a guessing game — it is a **thinking system**.
 
 ---
 
-## Core Features
+## Core Capabilities
 
-### Gameplay
-- Classic riddle rounds
-- AI-generated riddle rounds
-- Multiple game modes
-- Difficulty selection: Easy, Medium, Hard
-- Category selection: Logic, Math, Science
-- Timer-based question flow
-- Hint support
-- Skip question option
-- Animated score display
+### 1. Intelligent Answer Validation
+- Exact + normalized matching
+- Strict enforcement (no accidental correctness)
+- Semantic awareness (configurable)
+- Feedback-aware responses
 
-### Intelligence Layer
-- Retrieval-guided AI riddle generation
-- Semantic answer scoring
-- Similarity-aware evaluation beyond exact match
-- Cached and reusable AI-assisted flow
-- Riddle dataset conversion and deduplication
+---
 
-### User System
-- Account creation
-- Login and logout
-- JWT-based authentication
-- Avatar selection
-- Personalized gameplay identity
+### 2. Multi-Mode Gameplay Engine
 
-### Progress and Rankings
-- Leaderboard
-- Recent game history
-- Global ranking
-- Streak tracking
+| Mode | Description |
+|------|------------|
+| Classic | Balanced gameplay with scoring |
+| AI Mode | Generated / adaptive riddles |
+| Timed | High-pressure decision making |
+| Sudden Death | One mistake = elimination |
+| Endless | Continuous difficulty loop |
+| Scenarios | Multi-step reasoning challenges |
+
+---
+
+### 3. Dynamic Scoring System
+
+Each answer is evaluated across multiple dimensions:
+
+- Base points
+- Streak multiplier
+- Speed bonus
+- Hint penalties
+
+**Final Score = Base + Streak + Speed - Penalties**
+
+---
+
+### 4. Badge Progression System
+
+Badges are not random — they are **earned through consistency**:
+
+- Perfect Round
+- Elite Score
+- Hot Streak
+- Lightning Fast
+- Scenario Solver
+- Leaderboard Champion
+
+Each badge tracks progress and unlock conditions.
+
+---
+
+### 5. Real-Time Leaderboard
+
+- Rank-based competition
 - Accuracy tracking
-- Score tracking by round
+- Difficulty weighting
+- Global progression visibility
 
-### UI / UX
-- Premium gradient-based theme
-- Animated hero title
-- Slide-in account sidebar
-- Responsive orientation-aware layout
-- Tablet portrait and landscape optimization
-- Smooth transitions and micro-interactions
-
----
-
-## Why This Project Stands Out
-
-This is not just a quiz app.
-
-It is a **multi-layered software project** that combines:
-
-- structured backend logic
-- intelligent content generation
-- semantic evaluation
-- account systems
-- persistent storage
-- responsive interface design
-
-It shows the ability to build a product that feels closer to a real platform than a classroom exercise.
-
----
-
-## Tech Stack
-
-### Backend
-- Python
-- FastAPI
-- Uvicorn
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-
-### Authentication
-- JWT
-- `python-jose`
-- `passlib`
-
-### AI / NLP
-- Transformers
-- Sentence Transformers
-- Semantic similarity scoring
-
-### Data Storage
-- CSV-based persistence for:
-  - users
-  - leaderboard
-  - history
-  - used questions
-  - riddles dataset
-
----
-
-## Project Structure
-
-```text
-Riddle-AI/
-│
-├── app/
-│   ├── main.py
-│   ├── routes/
-│   │   ├── auth.py
-│   │   ├── game.py
-│   │   └── leaderboard.py
-│   │
-│   ├── services/
-│   │   ├── auth_service.py
-│   │   ├── dataset.py
-│   │   ├── generator.py
-│   │   ├── retrieval.py
-│   │   ├── answer_matcher.py
-│   │   └── storage.py
-│   │
-│   ├── static/
-│   │   ├── style.css
-│   │   └── app.js
-│   │
-│   └── templates/
-│       └── index.html
-│
-├── data/
-│   ├── riddles.csv
-│   ├── leaderboard.csv
-│   ├── history.csv
-│   ├── used_questions.csv
-│   └── users.csv
-│
-├── riddles.txt
-├── convert_riddles.py
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
 ---
 
 ## System Architecture
-```mermaid
-flowchart TD
-    A[User] --> B[Responsive Frontend<br/>HTML + CSS + JavaScript]
-    B --> C[FastAPI Application]
 
-    C --> D[Auth Routes]
-    C --> E[Game Routes]
-    C --> F[Leaderboard Routes]
+This project is structured as a **modular intelligence system** rather than a simple app.
 
-    D --> G[JWT Auth Service]
-    D --> H[User Storage]
+### Key Components:
 
-    E --> I[Dataset Service]
-    E --> J[AI Generator Service]
-    E --> K[Semantic Answer Matcher]
-    E --> L[Game Storage]
+- Gameplay Engine
+- Decision Engine
+- Validation Layer
+- Scoring System
+- Anti-Repetition System
+- AI Generation Pipeline
 
-    F --> M[Leaderboard Storage]
-    F --> N[History Storage]
-    F --> O[Global Ranking Aggregation]
+---
 
-    I --> P[Riddles CSV Dataset]
-    J --> P
-    L --> Q[Used Questions CSV]
-    H --> R[Users CSV]
-    M --> S[Leaderboard CSV]
-    N --> T[History CSV]
+## Technical Documentation
+
+Detailed system design is available in the `/docs` directory:
+
+| Document | Description |
+|----------|------------|
+| `architecture.md` | Full system architecture |
+| `system_flow.md` | End-to-end request lifecycle |
+| `gameplay_loop.md` | Core game execution logic |
+| `decision_engine.md` | Answer evaluation logic |
+| `anti_repetition_system.md` | Riddle deduplication strategy |
+| `generative_ai_pipeline.md` | AI riddle generation flow |
+
+---
+
+## Design Philosophy
+
+Riddle AI is built on three principles:
+
+1. **No accidental success**  
+   → Strict validation ensures correctness is earned
+
+2. **Progress must feel meaningful**  
+   → Badge system tracks real performance
+
+3. **UI should reinforce intelligence**  
+   → Clean, glass-based, distraction-free design
+
+---
+
+## UI / UX Highlights
+
+- Glassmorphism interface
+- Dynamic theme switching (light / dark)
+- Animated feedback systems
+- Mobile-first responsive layout
+- Micro-interactions for engagement
+
+---
+
+## Authentication System
+
+- JWT-based authentication
+- Secure login / register flow
+- Persistent user sessions
+- Protected gameplay actions
+
+---
+
+## Live Demo
+
+> [Launch Application](https://riddleqg.onrender.com)
+
+---
+
+## Public Repository Structure
+
+This is a **showcase repository**.
+
+Only the following are included:
 ```
----
-
-## Request Flow
-```mermaid
-sequenceDiagram
-    participant U as User
-    participant F as Frontend
-    participant API as FastAPI
-    participant AUTH as Auth Service
-    participant GAME as Game Engine
-    participant AI as AI Generator
-    participant SCORE as Semantic Matcher
-    participant DB as CSV Storage
-
-    U->>F: Open app
-    F->>API: Load options / rankings
-    API->>DB: Read data
-    DB-->>API: Return stored values
-    API-->>F: Render homepage
-
-    U->>F: Register / Login
-    F->>API: Auth request
-    API->>AUTH: Validate credentials
-    AUTH-->>API: JWT token
-    API-->>F: Auth success
-
-    U->>F: Start game
-    F->>API: /api/start
-    API->>GAME: Build round
-
-    alt Classic mode
-        GAME->>DB: Load riddles from dataset
-    else AI mode
-        GAME->>AI: Generate retrieval-guided riddles
-        AI->>DB: Use riddles dataset as grounding
-    end
-
-    API-->>F: Return round questions
-
-    U->>F: Submit answers
-    F->>API: /api/submit
-    API->>SCORE: Evaluate semantic similarity
-    SCORE-->>API: Match results + scoring
-    API->>DB: Save history, leaderboard, used questions
-    API-->>F: Return round results
+/docs architecture.md system_flow.md gameplay_loop.md decision_engine.md anti_repetition_system.md generative_ai_pipeline.md
 ```
----
-
-## Game Modes
-
-**1. Classic**
-- Uses the structured local riddle dataset.
-
-**2. AI**
-- Uses retrieval-guided generation built from the local riddle dataset.
-
-**3. Timed**
-- Adds stronger time pressure to each question.
-
-**4. Sudden Death**
-- A mistake can end the round early.
-
-**5. Endless**
-- Extends the challenge format for repeated play.
 
 ---
 
-## Dataset Pipeline
+## Private Codebase
 
-This project supports dataset growth through a text-to-CSV conversion flow.
+The full implementation (backend + frontend + AI systems) is maintained in a **private repository**.
 
-**Input:**
-
-```difficulty|question|answer```
-
-**Conversion**
-- reads from ```riddles.txt```
-- removes duplicates
-- infers category
-- writes cleaned rows to ```data/riddles.csv```
-
-**Categories**
-- Logic
-- Math
-- Science
-
-This gives the project a maintainable content pipeline instead of hardcoded questions.
+This includes:
+- FastAPI backend
+- Full frontend UI
+- Authentication system
+- Game engine logic
+- AI integrations
 
 ---
 
-## Authentication Architecture
+## What This Project Demonstrates
 
-The authentication system uses:
-- registration
-- login
-- password hashing
-- JWT token generation
-- protected API endpoints
-
-Protected endpoints require a valid token before a user can:
-- start a game
-- submit results
-- access personalized identity state
+- Full-stack system design
+- Advanced JavaScript frontend engineering
+- Backend architecture (FastAPI)
+- Applied AI integration
+- Data-driven scoring systems
+- Production-level UI/UX thinking
 
 ---
 
-## Semantic Scoring
+## Author
 
-Instead of relying only on strict string equality, the project supports semantic-aware answer evaluation.
-
-This makes the game more intelligent by allowing:
-
-- better handling of close answers
-- more flexible evaluation logic
-- stronger NLP integration
-
-That moves the project beyond a simple quiz checker into a more modern intelligent system.
+**Nomusa Shongwe**
 
 ---
 
-## Responsive Design Strategy
+<div align="center">
 
-The UI was designed with orientation-aware behavior in mind.
+© 2026 Built by Nomusa Shongwe  
+
+</div>
