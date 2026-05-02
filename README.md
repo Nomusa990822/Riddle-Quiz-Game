@@ -66,7 +66,7 @@ It combines:
 - **Progression-based badge mechanics**
 - **Real-time leaderboard competition**
 
-This is not a guessing game — it is a **thinking system**.
+This is not a guessing game; it is a **thinking system**.
 
 ---
 
@@ -108,7 +108,7 @@ Each answer is evaluated across multiple dimensions:
 
 ### 4. Badge Progression System
 
-Badges are not random — they are **earned through consistency**:
+Badges are not random; they are **earned through consistency**:
 
 - Perfect Round
 - Elite Score
@@ -147,7 +147,7 @@ This project is structured as a **modular intelligence system** rather than a si
 
 ## Technical Documentation
 
-Detailed system design is available in the `/docs` directory:
+Detailed system design is available:
 
 | Document | Description |
 |----------|------------|
@@ -206,7 +206,12 @@ This is a **showcase repository**.
 
 Only the following are included:
 ```
-/docs architecture.md system_flow.md gameplay_loop.md decision_engine.md anti_repetition_system.md generative_ai_pipeline.md
+architecture.md
+system_flow.md
+gameplay_loop.md
+decision_engine.md
+anti_repetition_system.md
+generative_ai_pipeline.md
 ```
 
 ---
@@ -232,12 +237,6 @@ This includes:
 - Applied AI integration
 - Data-driven scoring systems
 - Production-level UI/UX thinking
-
----
-
-## Author
-
-**Nomusa Shongwe**
 
 ---
 
